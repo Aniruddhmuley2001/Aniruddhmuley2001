@@ -1,4 +1,4 @@
-<h1 align='center'>Hey 👋, This is Aniruddh Muley</h1>
+<h1 align='center'>Hey 👋, Aniruddh Muley here!</h1>
 
 <p align='center'>A tech enthusiast 💻, presently aiming to be a Full-Stack Developer. Presently working on frontend part, with a deep interest in React JS. Inquisitive about Competitive Coding and Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects.</p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
