@@ -1,6 +1,19 @@
 <h1 align='center'>Hey 👋, Aniruddh Muley here!</h1>
 
-<p align='center'>A tech enthusiast 💻, presently aiming to be a Full-Stack Developer. Presently working on frontend part, with a deep interest in React JS. Inquisitive about Competitive Coding and Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects.</p><h2 align='center'>Connect with me  📫 </h2>
+<p align='center'>A tech enthusiast 💻, presently aiming to be a Full-Stack Developer. Presently working on frontend part, with a deep interest in React JS. Inquisitive about Competitive Coding and Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects.</p>
+
+<h2 align='center'>Tech Stack I work on </h2>
+<p align = 'center'> 
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
+ <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='40'  weight='40'/> 
+ <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg height='40' weight='40'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg  height='40' weight='40'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/yarn.svg  height='40' weight='40'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg  height='40' weight='40'/>
+
+<h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  <a href = https://github.com/Aniruddhmuley2001 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
  <a href = https://www.linkedin.com/in/aniruddh-muley-647884193 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30'  weight='30'/></a> 
