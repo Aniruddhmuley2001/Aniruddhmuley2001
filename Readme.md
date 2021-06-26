@@ -1,6 +1,6 @@
 <h1 align='center'>Howdy devs 👋, Aniruddh Muley here!</h1>
 
-<p align='center'>A tech enthusiast 💻, almost a Full-Stack Developer😅 (working on it!). Presently working more on frontend side, with a deep interest in React JS. Inquisitive about Competitive Coding and Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects.</p>
+<p align='center'>A tech enthusiast 💻, almost a Full-Stack Developer😅 (working on it!). Presently working more on frontend side, with a deep interest in React JS. Inquisitive about Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects.</p>
 
 <h2 align='center'>Tech Stack I work on </h2>
 <p align = 'center'> 
