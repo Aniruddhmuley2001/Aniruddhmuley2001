@@ -1,6 +1,6 @@
 <h1 align='center'>Howdy devs 👋, Aniruddh Muley here!</h1>
 
-<p align='center'>A tech enthusiast 💻, Frontend Web Developer with a deep interest in React JS. Inquisitive about Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects.</p>
+<p align='center'>A tech enthusiast 💻, Frontend Web Developer with a deep interest in React JS. Inquisitive about Data Structures and Algorithms. Pragmatic, motivator, JavaScript lover and love applying new concepts in form of projects. Adding to it, have a knack for User-Centric Design Thinking. So yeah, a developer who can design!</p>
 
 <h2 align='center'>Tech Stack I work on </h2>
 <p align = 'center'> 
@@ -17,7 +17,7 @@
 <p align = 'center'> 
  <a href = https://github.com/Aniruddhmuley2001 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
  <a href = https://www.linkedin.com/in/aniruddh-muley-647884193 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30'  weight='30'/></a> 
-<!--  <a href = https://twitter.com/@AniruddhMuley target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a> -->
+<!--  <a href = https://twitter.com/@maniruddh6 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a> -->
  <a href = https://stackoverflow.com/users/13961427/aniruddh-muley target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg  height='30' weight='30'/></a>
 
 <h2 align='center'>Some Stats📊</h2>
